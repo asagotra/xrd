@@ -1,7 +1,7 @@
 """
 AUTO-XRD
 
-filneame: autoXRD.py 
+filneame: XRD_normalize.py 
     
 Series of functions for XRD spectra pre-processing, normalization
 and data augmentation

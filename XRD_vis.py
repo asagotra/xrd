@@ -2,7 +2,7 @@
 """
 AUTO-XRD VISUALIZATION
 
-filneame: autoXRD_vis.py 
+filneame: XRD_vis.py 
     
 Series of functions for extracting correctly and incorrectly classified patterns
 of XRD cross-validation, 

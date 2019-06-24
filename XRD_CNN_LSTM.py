@@ -17,9 +17,9 @@ SPACE GROUP CNN + LSTM
 #################################################################
 
 # Loads series of functions for preprocessing and data augmentation
-from autoXRD import * 
+from XRD_normalize import * 
 # Loads CAMs visualizations for a-CNN
-from autoXRD_vis import * 
+from XRD_vis import * 
 
 import numpy as np  
 import matplotlib.pyplot as plt
