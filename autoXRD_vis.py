@@ -2,16 +2,10 @@
 """
 AUTO-XRD VISUALIZATION
 
-filneame: autoXRD_vis.py version: 0.2
+filneame: autoXRD_vis.py 
     
 Series of functions for extracting correctly and incorrectly classified patterns
 of XRD cross-validation, 
-
-@authors: Felipe Oviedo and Danny Zekun Ren
-MIT Photovoltaics Laboratory / Singapore and MIT Alliance for Research and Tehcnology
-
-All code is under Apache 2.0 license, please cite any use of the code as explained 
-in the README.rst file, in the GitHub repository.
 
 """
 

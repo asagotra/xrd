@@ -1,16 +1,10 @@
 """
 AUTO-XRD
 
-filneame: autoXRD.py version: 1.0
+filneame: autoXRD.py 
     
 Series of functions for XRD spectra pre-processing, normalization
 and data augmentation
-
-@authors: Felipe Oviedo and Danny Zekun Ren
-MIT Photovoltaics Laboratory / Singapore and MIT Alliance for Research and Tehcnology
-
-All code is under Apache 2.0 license, please cite any use of the code as explained 
-in the README.rst file, in the GitHub repository.
 
 """
 
